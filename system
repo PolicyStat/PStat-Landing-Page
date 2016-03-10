@@ -1,0 +1,62 @@
+<!-- Ensure this text is customized to reflect the client site -->
+
+<font size="4">Welcome to the Demo Implementations PolicyStat page. PolicyStat is the online repository for all policies and procedures for our facility.</font><br/>
+&nbsp;
+<table width="100%" border="1" cellspacing="1" cellpadding="5">
+<tr>
+<td width=”25%” bgcolor="#3966B0"><strong><font size="4" font color="white"> Search for Policies</font></strong></td>
+</tr>
+<tr>
+
+<!-- Clients may use different terms here. -->
+
+<td> <p>Search for a policy by entering words in the Search field above, or click a search tab to search by Title, <a href="https://policystat.zendesk.com/hc/en-us/articles/205019369" target="_blank">Policy Area</a>, or <a href="https://policystat.zendesk.com/hc/en-us/articles/204866235#Author" target="_blank">Owner</a>.</p> <p>For additional searching help, please visit the <a href="https://policystat.zendesk.com/hc/en-us/articles/204864415-Searching-in-PolicyStat" target="_blank">PolicyStat Learning Center</a>.</p></td>
+  </tr>
+
+<!-- Change Location: Applicability settings -->
+
+<td width=”25%” bgcolor="#3966B0"><strong><font size="4" font color="white">Change Location</font></strong>
+</td>
+</tr>
+<tr>
+<td> <p>To see policies for other facilities select the site from the <b>(Change Location)</b> link at the <b>top left of this page.</b></p></td>
+  </tr>
+  
+<!-- The login may not apply to AD / SSO sites. They are already logged in. Just worth noting -->  
+<tr>
+<td hwidth=”25%” bgcolor="#87A5D8"><strong><font size="4"> Acknowledge, Edit or Approve Policies</font> </strong></td>
+</tr>
+<tr>
+<td><p>Acknowledging, editing and/or approving policies for your specific location requires logging in to perform these activities.</p><p>Click the login link at right, and use your PolicyStat User ID and password.</p>
+<p>For additional guidance on the Approval process, visit the <a href = "https://policystat.zendesk.com/hc/en-us/sections/201017275-Approval-Workflows" target="_blank">PolicyStat Learning Center</a>.</p></td>
+</tr>
+  
+  
+<!-- Help and Support -->  
+<tr>
+<td width=”25%” bgcolor="#3966B0"><strong><font size="4" font color="white">Help and Support</font></strong></td>
+</tr>
+<tr>
+<td> <p>Please contact your local Site Administrators for any questions or issues.  The Site Admins are <b>Sue Smith <a href = "mailto:sue@hospital.org target_"blank">(sue@hospital.org)</a></b> and <b>Joe Jones (<a href = "mailto:joe@hospital.org target="_blank">(joe@hospital.org)</a></b>.</p>
+<p>For additional PolicyStat help:</p> 
+<ul>
+<li>Click the Tutorials link in the top right any page for content specific and interactive tutorials</li>
+<li>Attend a <a href="http://learn.policystat.com/webinars/" target="_blank">Learning Center Webinar</a></li>
+<li>Ask other PolicyStat users in the <a href="https://policystat.zendesk.com/hc/en-us/community/topics" target="_blank">User Community</a></li>
+<li>Visit the <a href="https://policystat.zendesk.com/hc/en-us/" target="_blank">Learning Center Knowledge Base.</a></li>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tbody><tr>
+<td valign="top">
+<h2 class="section_title_home">
+<a href="/policy_reports/revised/recent/">New and Recently Revised 
+Policies</a>
+<a href="/policy_reports/revised/recent/?csv=True"><img title="Download for Excel CSV" alt="Download for Excel &#10;CSV" src="/site_media/images/icons/page_excel.gif" /></a>
+</h2>
+</td>
+</tr>
+</tbody></table>
+<p>To view a list of new and/or recently revised policies click on the link in the title above. To download a list of policies to Microsoft Excel click the Excel icon to the right of the link.</p>
